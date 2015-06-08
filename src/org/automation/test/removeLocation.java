@@ -99,3 +99,5 @@ public class removeLocation {
     }
   }
 }
+
+/*bug*/
